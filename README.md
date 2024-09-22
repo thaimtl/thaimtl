@@ -4,7 +4,9 @@
 I'm a computer engineer student at McGill University 🐦, passionate about object detection, data analysis, and web development.
 
 🌍 Based in Montréal, QC, Canada
+
 🚀 Tech enthusiast with a focus on AI and web technologies
+
 🎨 Fashion lover on the side
 
 ## 🛠 Skills
@@ -18,7 +20,6 @@ I'm a computer engineer student at McGill University 🐦, passionate about obje
 
 ## 🔭 Current Projects
 - Learning web development with HTML, CSS, and JavaScript (CS50W)
-- [Any other current projects you're working on]
 
 ## 🌱 I'm currently learning
 - Web Development (HTML, CSS, JavaScript)
