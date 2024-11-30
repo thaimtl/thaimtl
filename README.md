@@ -1,29 +1,28 @@
 # Hello, I'm Thai Tran 👋
 
 ## 👨‍💻 About Me
-I'm a computer engineer student at McGill University 🐦, passionate about object detection, data analysis, and web development.
+I'm a computer engineer student at McGill University, passionate about coding challenges.
 
 🌍 Based in Montréal, QC, Canada
 
-🚀 Tech enthusiast with a focus on AI and web technologies
+🚀 Tech enthusiast with a focus on AI, cloud computing and other web technologies
 
-🎨 Fashion lover on the side
+🎨 Art enthusiast on the side
 
 ## 🛠 Skills
-- Programming: C++ (Advanced), Python (Intermediate), Java (Beginner)
+- Main Programming Languages: C++, Python, Java 
 - Object Detection
-- Data Analysis
-- Web Development (Learning HTML, CSS, JavaScript)
+- Web Development
 - Communication and Interpersonal Skills
 - Teamwork and Problem-Solving
-- Retail Management Software Systems
 
 ## 🔭 Current Projects
-- Learning web development with HTML, CSS, and JavaScript (CS50W)
+- Stock buying/selling simulator for day-trading beginner
+- A journaling web application with the special feature to let the user changes the frontend design with a button (i.e. a web application that lets the user customize their own workspace)  
 
-## 🌱 I'm currently learning
-- Web Development (HTML, CSS, JavaScript)
-- Expanding knowledge in object detection and data analysis
+## 🌱 On the side, I'm currently learning 
+- Linear programming and nonlinear optimization
+- CS50's Introduction to Databases with SQL
 
 ## 🎓 Education
 - B.Eng. in Computer Engineering, McGill University (2024-2027, Expected graduation in 2027)
@@ -34,15 +33,13 @@ I'm a computer engineer student at McGill University 🐦, passionate about obje
 - Shoe Sales Advisor, Sports Experts Centre Rockland, Montreal (08/2023-01/2024)
 - Sales Associate, New Balance, Montreal (08/2021-02/2023)
   
-## 🏆 Projects and Achievements
+## 🏆 Projects and Achievements 
+- Django Web App, Nutrition and fitness plan builder (2024) 
 - C++ Gym and Nutrition App, College Personal Project (2024)
 - Video Game Creation Project using Construct 3, La Fusion Jeunesse (2021)
 
 ## 📫 How to reach me
 - Email: thaitran196712@gmail.com
-
-## 💞️ Collaboration
-Projects related to object detection, data analysis, or web development. Feel free to reach out if you have any interesting opportunities!
 
 ## 🌐 Languages
 - French
@@ -50,7 +47,7 @@ Projects related to object detection, data analysis, or web development. Feel fr
 - Vietnamese
 
 ## 💡 Fun fact
-⚡ I have a passion for fashion that rivals my love for tech 👔
+⚡ I love art, fashion and do amateur photography on the side. 
 <!---
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
