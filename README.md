@@ -18,7 +18,7 @@ I'm a computer engineer student at McGill University, passionate about coding ch
 
 ## 🔭 Current Projects
 - Stock buying/selling simulator for day-trading beginner
-- A journaling web application with the special feature to let the user changes the frontend design with a button (i.e. a web application that lets the user customize their own workspace)  
+- A journaling web application with the special feature to let the user changes the frontend design with a button (i.e. a web application that allows the user customize their own workspace)  
 
 ## 🌱 On the side, I'm currently learning 
 - Linear programming and nonlinear optimization
