@@ -34,7 +34,7 @@ I'm a computer engineer student at McGill University, passionate about coding ch
 - Sales Associate, New Balance, Montreal (08/2021-02/2023)
   
 ## 🏆 Projects and Achievements 
-- Django Web App, Nutrition and fitness plan builder (2024) 
+- Django Web App, Nutrition and Fitness Plan Builder (2024) 
 - C++ Gym and Nutrition App, College Personal Project (2024)
 - Video Game Creation Project using Construct 3, La Fusion Jeunesse (2021)
 
