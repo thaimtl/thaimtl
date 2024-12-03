@@ -5,7 +5,7 @@ I'm a computer engineer student at McGill University, passionate about coding ch
 
 🌍 Based in Montréal, QC, Canada
 
-🚀 Tech enthusiast with a focus on AI, cloud computing and other web technologies
+🚀 Tech enthusiast with a focus on AI, cloud computing and other web technologies. I am still figuring out what I like the most by taking some courses outside of my engineering classes. 
 
 🎨 Art enthusiast on the side
 
@@ -23,6 +23,8 @@ I'm a computer engineer student at McGill University, passionate about coding ch
 ## 🌱 On the side, I'm currently learning 
 - Linear programming and nonlinear optimization
 - CS50's Introduction to Databases with SQL
+- AWS CodePipeline, CodeDeploy, CloudFormation, and Terraform for CI/CD and infrastructure as code (IaC)
+- Mainframe stuffs with IBMZ XPLORE
 
 ## 🎓 Education
 - B.Eng. in Computer Engineering, McGill University (2024-2027, Expected graduation in 2027)
