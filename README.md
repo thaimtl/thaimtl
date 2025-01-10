@@ -1,33 +1,32 @@
 # Hello, I'm Thai Tran 👋
 
 ## 👨‍💻 About Me
-I'm a computer engineer student at McGill University, passionate about coding challenges.
+I am a Computer Engineering student at McGill University, passionate about transforming programming concepts into practical tools that enhance daily life.
 
 🌍 Based in Montréal, QC, Canada
 
-🚀 Tech enthusiast with a focus on AI, cloud computing and other web technologies. I am still figuring out what I like the most by taking some courses outside of my engineering classes. 
+🚀 Tech enthusiast with a focus on AI, cloud computing and other web technologies.
 
 🎨 Art enthusiast on the side
 
 ## 🛠 Skills
 - Main Programming Languages: C++, Python, Java 
-- Object Detection
-- Web Development
+- Object Detection Libraries (OpenCV, Yolo)
+- Web Development (HTML, CSS, JavaScript, React.js) 
 - Communication and Interpersonal Skills
 - Teamwork and Problem-Solving
 
 ## 🔭 Current Projects
 - Stock buying/selling simulator for day-trading beginner
-- A journaling web application with the special feature to let the user changes the frontend design with a button (i.e. a web application that allows the user customize their own workspace)  
+- An application that uses a phone camera to guide users on the best angle and lighting conditions for capturing optimal photos.
 
 ## 🌱 On the side, I'm currently learning 
-- Linear programming and nonlinear optimization
 - CS50's Introduction to Databases with SQL
 - AWS CodePipeline, CodeDeploy, CloudFormation, and Terraform for CI/CD and infrastructure as code (IaC)
 - Mainframe stuffs with IBMZ XPLORE
 
 ## 🎓 Education
-- B.Eng. in Computer Engineering, McGill University (2024-2027, Expected graduation in 2027)
+- B.Eng. in Computer Engineering, McGill University (2024-2028, Expected graduation in 2028) (GPA : 3.72)
 - DEC in Pure and Applied Science, Vanier College, Montreal (2022-2024, Graduated)
 
 ## 💼 Work Experience
