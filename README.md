@@ -12,7 +12,7 @@ I am a Computer Engineering student at McGill University, passionate about trans
 ## 🛠 Skills
 - Main Programming Languages: C++, Python, Java 
 - Object Detection Libraries (OpenCV, Yolo)
-- Web Development (HTML, CSS, JavaScript, React.js) 
+- Web Development (HTML, CSS, JavaScript, React.js(in progress) 
 - Communication and Interpersonal Skills
 - Teamwork and Problem-Solving
 
