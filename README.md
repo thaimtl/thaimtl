@@ -5,7 +5,7 @@ I am a Computer Engineering student at McGill University, passionate about trans
 
 🌍 Based in Montréal, QC, Canada
 
-🚀 Tech enthusiast with a focus on AI, cloud computing and other web technologies.
+🚀 Tech enthusiast with a focus on AI, cloud computing and other web technologies for fintech industry 
 
 🎨 Art enthusiast on the side
 
