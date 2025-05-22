@@ -12,7 +12,7 @@ I am a Computer Engineering student at McGill University, passionate about trans
 ## 🛠 Skills
 - Main Programming Languages: C++, Python, Java 
 - Object Detection Libraries (OpenCV, Yolo)
-- Web Development (HTML, CSS, JavaScript, React.js(in progress))
+- Web Development (HTML, CSS, JavaScript, React.js, Typescript)
 - Communication and Interpersonal Skills
 - Teamwork and Problem-Solving
 
@@ -21,20 +21,20 @@ I am a Computer Engineering student at McGill University, passionate about trans
 - An application that uses a phone camera to guide users on the best angle and lighting conditions for capturing optimal photos.
 
 ## 🌱 On the side, I'm currently learning 
-- CS50's Introduction to Databases with SQL
 - AWS CodePipeline, CodeDeploy, CloudFormation, and Terraform for CI/CD and infrastructure as code (IaC)
-- Mainframe stuffs with IBMZ XPLORE
 
 ## 🎓 Education
-- B.Eng. in Computer Engineering, McGill University (2024-2028, Expected graduation in 2028) (GPA : 3.72)
+- B.Eng. in Computer Engineering, McGill University (2024-2028, Expected graduation in 2028) (GPA : 3.80)
 - DEC in Pure and Applied Science, Vanier College, Montreal (2022-2024, Graduated)
 
 ## 💼 Work Experience
+- Software Engineer Intern, LetA Tech Ltd (Summer 2025)
 - Liaison Agent, R.A.P Jeunesse, Montreal (Summers 2021-2024)
 - Shoe Sales Advisor, Sports Experts Centre Rockland, Montreal (08/2023-01/2024)
 - Sales Associate, New Balance, Montreal (08/2021-02/2023)
   
 ## 🏆 Projects and Achievements (Checkout my Github)
+- 2nd place @McGill Machine Learning Hackathon 2025 with Scikit Stock Screener (2025) 
 - Django Web App, Nutrition and Fitness Plan Builder (2024) 
 - C++ Gym and Nutrition App, College Personal Project (2024)
 - Video Game Creation Project using Construct 3, La Fusion Jeunesse (2021)
