@@ -1,7 +1,7 @@
 # Hello, I'm Thai Tran 👋
 
 ## 👨‍💻 About Me
-I am a Computer Engineering student at McGill University, passionate about transforming programming concepts into practical tools that enhance daily life.
+I am a Computer Engineering student at McGill University, passionate about transforming raw ideas to programming concepts to practical tools that enhance daily life.
 
 🌍 Based in Montréal, QC, Canada
 
