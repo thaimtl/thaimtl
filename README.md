@@ -17,7 +17,7 @@ I am a Computer Engineering student at McGill University, passionate about trans
 - Teamwork and Problem-Solving
 
 ## 🔭 Current Projects (In-Process)
-- Stock buying/selling simulator for day-trading beginner
+- Stock trading bot for an upcoming competition at Montreal Stock Exchange
 - An application that uses a phone camera to guide users on the best angle and lighting conditions for capturing optimal photos.
 
 ## 🌱 On the side, I'm currently learning 
@@ -28,9 +28,9 @@ I am a Computer Engineering student at McGill University, passionate about trans
 - DEC in Pure and Applied Science, Vanier College, Montreal (2022-2024, Graduated)
 
 ## 💼 Work Experience
-- Software Engineer Intern, LetA Tech Ltd (Summer 2025)
+- Software Engineer Partner, LetA Tech Ltd (Summer 2025)
 - Liaison Agent, R.A.P Jeunesse, Montreal (Summers 2021-2024)
-- Shoe Sales Advisor, Sports Experts Centre Rockland, Montreal (08/2023-01/2024)
+- Sales Associate, Sports Experts Centre Rockland, Montreal (08/2023-01/2024)
 - Sales Associate, New Balance, Montreal (08/2021-02/2023)
   
 ## 🏆 Projects and Achievements (Checkout my Github)
