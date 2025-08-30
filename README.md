@@ -18,7 +18,7 @@ I am a Computer Engineering student at McGill University, passionate about trans
 
 ## 🔭 Current Projects (In-Process)
 - Stock trading bot for an upcoming competition at Montreal Stock Exchange
-- An application that uses a phone camera to guide users on the best angle and lighting conditions for capturing optimal photos.
+- An application that uses a phone camera to guide users on the best angle and lighting conditions for capturing optimal photos
 
 ## 🌱 On the side, I'm currently learning 
 - AWS CodePipeline, CodeDeploy, CloudFormation, and Terraform for CI/CD and infrastructure as code (IaC)
