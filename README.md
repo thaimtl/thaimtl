@@ -21,7 +21,8 @@ I am a Computer Engineering student at McGill University, passionate about trans
 - An application that uses a phone camera to guide users on the best angle and lighting conditions for capturing optimal photos
 
 ## 🌱 On the side, I'm currently learning 
-- AWS CodePipeline, CodeDeploy, CloudFormation, and Terraform for CI/CD and infrastructure as code (IaC)
+- Options Trading
+- AWS Cloud Practitioner certification & hands-on deployment with EC2, S3, Lambda
 
 ## 🎓 Education
 - B.Eng. in Computer Engineering, McGill University (2024-2028, Expected graduation in 2028) (GPA : 3.80)
@@ -34,7 +35,8 @@ I am a Computer Engineering student at McGill University, passionate about trans
 - Sales Associate, New Balance, Montreal (08/2021-02/2023)
   
 ## 🏆 Projects and Achievements (Checkout my Github)
-- 2nd place @McGill Machine Learning Hackathon 2025 with Scikit Stock Screener (2025) 
+- 2nd place @McGill Machine Learning Hackathon 2025 with Scikit Stock Screener (2025)
+- Financial Text Sentiment Analysis App powered by fine-tuned finBert (2025)
 - Django Web App, Nutrition and Fitness Plan Builder (2024) 
 - C++ Gym and Nutrition App, College Personal Project (2024)
 - Video Game Creation Project using Construct 3, La Fusion Jeunesse (2021)
