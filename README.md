@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 I am a Computer Engineering student at McGill University, passionate about transforming raw ideas to programming concepts to practical tools that enhance daily life.
 
-🌍 🇨🇦 ⚜️ Based in Montréal, QC, Canada
+🌍 🍁 ⚜️ Based in Montréal, QC, Canada
 
 🚀 Tech enthusiast with a focus on AI, cloud computing and other web technologies for fintech industry 
 
