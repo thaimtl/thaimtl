@@ -20,7 +20,7 @@ I am a Computer Engineering student at McGill University, passionate about trans
 - Smart calendar app leveraging AI to extract course information from syllabi and create personalized study schedules
 
 ## 🌱 On the side, I'm currently learning 
-- Options Trading
+- Options Trading Strategies
 - AWS Cloud Practitioner certification & hands-on deployment with EC2, S3, Lambda
 
 ## 🎓 Education
@@ -33,7 +33,7 @@ I am a Computer Engineering student at McGill University, passionate about trans
 - Sales Associate, Sports Experts Centre Rockland, Montreal (08/2023-01/2024)
 - Sales Associate, New Balance, Montreal (08/2021-02/2023)
   
-## 🏆 Projects and Achievements (Checkout my Github)
+## 🏆 Projects (Checkout my Github)
 - 2nd place @McGill Machine Learning Hackathon 2025 with Scikit Stock Screener (2025)
 - Financial Text Sentiment Analysis App powered by fine-tuned finBert (2025)
 - Django Web App, Nutrition and Fitness Plan Builder (2024) 
