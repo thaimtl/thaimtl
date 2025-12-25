@@ -5,26 +5,22 @@ I am a Computer Engineering student at McGill University, passionate about trans
 
 🌍 🍁 ⚜️ Based in Montréal, QC, Canada
 
-🚀 Tech enthusiast with a focus on AI, cloud computing and other web technologies for fintech industry 
+🚀 Tech enthusiast with a focus on AI, cloud computing and other web technologies for fintech and retail industries
 
 
 ## 🛠 Skills
 - Main Programming Languages: C++, Python, Java 
 - Object Detection Libraries (OpenCV, Yolo)
-- Web Development (HTML, CSS, JavaScript, React.js, Typescript)
+- Web Development (HTML, CSS, Next.js, Tailwind css, Typescript)
 - Communication and Interpersonal Skills
 - Teamwork and Problem-Solving
-
-## 🔭 Current Personal Projects (In-Process)
-- Smart calendar app leveraging AI to extract course information from syllabi and create personalized study schedules
 
 ## 🌱 On the side, I'm currently learning 
 - Options Trading Strategies
 - AWS Cloud Practitioner certification & hands-on deployment with EC2, S3, Lambda
 
 ## 🎓 Education
-- B.Eng. in Computer Engineering, McGill University (2024-2028, Expected graduation in 2028) (GPA : 3.80)
-- DEC in Pure and Applied Science, Vanier College, Montreal (2022-2024, Graduated)
+- B.Eng. in Computer Engineering, McGill University (2024-2028, Expected graduation in 2028) 
 
 ## 💼 Work Experience
 - Software Engineer Partner, LetA Tech Ltd (2025)
@@ -32,7 +28,8 @@ I am a Computer Engineering student at McGill University, passionate about trans
 - Sales Associate, Sports Experts Centre Rockland, Montreal (08/2023-01/2024)
 - Sales Associate, New Balance, Montreal (08/2021-02/2023)
   
-## 🏆 Projects (Checkout my Github)
+## 🏆 Projects
+- Flight Management System full-stack school project (2025)
 - 2nd place @McGill Machine Learning Hackathon 2025 with Scikit Stock Screener (2025)
 - Financial Text Sentiment Analysis App powered by fine-tuned finBert (2025)
 - Django Web App, Nutrition and Fitness Plan Builder (2024) 
@@ -49,7 +46,7 @@ I am a Computer Engineering student at McGill University, passionate about trans
 - Vietnamese
 
 ## 💡 Fun fact
-⚡ I love art, fashion and do amateur photography on the side. 
+⚡ I also love art, fashion and do amateur photography on the side. 
 <!---
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
