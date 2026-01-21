@@ -9,7 +9,7 @@ I am a Computer Engineering student at McGill University, passionate about trans
 
 
 ## 🛠 Skills
-- Main Programming Languages: C++, Python, Java 
+- Main Programming Languages: Python, Java 
 - Object Detection Libraries (OpenCV, Yolo)
 - Web Development (HTML, CSS, Next.js, Tailwind css, Typescript)
 - Communication and Interpersonal Skills
@@ -29,7 +29,7 @@ I am a Computer Engineering student at McGill University, passionate about trans
 - Sales Associate, New Balance, Montreal (08/2021-02/2023)
   
 ## 🏆 Projects
-- SIY (Style It Yourself) - Stylist App that allows user to style outfits based on color theory and built in recommendation algorithm. Extra feature is item/outfit try-on using your real body image. 
+- SIY (Style It Yourself) - Your personal stylist, digital closet, fitting room => all in one (2026)
 - Flight Management System full-stack school project (2025)
 - 2nd place @McGill Machine Learning Hackathon 2025 with Scikit Stock Screener (2025)
 - Financial Text Sentiment Analysis App powered by fine-tuned finBert (2025)
