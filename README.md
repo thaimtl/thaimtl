@@ -10,19 +10,18 @@ I am a Computer Engineering student at McGill University, passionate about trans
 
 ## 🛠 Skills
 - Main Programming Languages: Python, Java 
-- Object Detection Libraries (OpenCV, Yolo)
 - Web Development (HTML, CSS, Next.js, Tailwind css, Typescript)
 - Communication and Interpersonal Skills
-- Teamwork and Problem-Solving
+- Teamwork, leadership and Problem-Solving
 
 ## 🌱 On the side, I'm currently learning 
-- Options Trading Strategies
 - AWS Cloud Practitioner certification & hands-on deployment with EC2, S3, Lambda
 
 ## 🎓 Education
 - B.Eng. in Computer Engineering, McGill University (2024-2028, Expected graduation in 2028) 
 
 ## 💼 Work Experience
+- Anthropic Claude Campus Ambassador (2026)
 - Software Engineer Partner, LetA Tech Ltd (2025)
 - Liaison Agent, R.A.P Jeunesse, Montreal (Summers 2021-2024)
 - Sales Associate, Sports Experts Centre Rockland, Montreal (08/2023-01/2024)
