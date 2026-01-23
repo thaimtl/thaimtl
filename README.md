@@ -88,15 +88,13 @@ English · French · Vietnamese
 <br>
 
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/St._George_and_the_Dragon_-_Briton_Riviere.jpg/400px-St._George_and_the_Dragon_-_Briton_Riviere.jpg" width="300" alt="Saint George and the Dragon by Briton Rivière"/>
+
+<img width="880" height="1070" alt="image" src="https://github.com/user-attachments/assets/4e555b1b-3934-4501-b577-41c0da3f5b74" />
+
 
 *Saint George and the Dragon* — Briton Rivière (1908-1909)
 </div>
 
-Unlike traditional depictions showing the knight mid-battle on horseback, Rivière captures the aftermath — Saint George lies exhausted beside his fallen adversary. The battle is won, but the victor gave everything he had.
-
-This reflects how I approach challenges: victory comes through persistence, not glamour. The quiet moment after the struggle — whether it's a hackathon deadline, a stubborn bug, or a complex feature — is where the real story lives.
-
-*Discovered at the Musée des Beaux-Arts de Montréal.*
+Unlike most Saint George paintings showing the hero mid-battle, Rivière captures the aftermath — the knight lies exhausted beside his fallen dragon, having given everything he had. Found this one at the Musée des Beaux-Arts de Montréal and it stuck with me — victory through persistence, sacrifice, not glamour.
 
 </details>
