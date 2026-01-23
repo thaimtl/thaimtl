@@ -31,7 +31,6 @@ Computer Engineering student at McGill University based in Montréal. I transfor
 |------|--------------|--------|
 | Claude Campus Ambassador | Anthropic | 2026 |
 | Software Engineer Partner | LetA Tech Ltd | 2025 |
-| Liaison Agent | R.A.P Jeunesse | 2021–2024 |
 
 ---
 
