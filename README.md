@@ -52,9 +52,9 @@ Computer Engineering student at McGill University based in Montréal. I transfor
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thaimtl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=thaimtl&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thaimtl&show_icons=true&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thaimtl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=thaimtl&show_icons=true&theme=default&hide_border=true&include_all_commits=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thaimtl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thaimtl&theme=tokyonight&hide_border=true&background=0D1117" />
