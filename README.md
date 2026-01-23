@@ -1,62 +1,101 @@
-# Hello, I'm Thai Tran 👋
+<div align="center">
 
-## 👨‍💻 About Me
-I am a Computer Engineering student at McGill University, passionate about transforming raw ideas to programming concepts to practical tools that enhance daily life.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Thai+Tran;Computer+Engineering+%40+McGill;Building+tools+that+enhance+daily+life)](https://git.io/typing-svg)
 
-🌍 🍁 ⚜️ Based in Montréal, QC, Canada
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thaitran)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:minh.thai.tran@mail.mcgill.ca)
 
-🚀 Tech enthusiast with a focus on AI, cloud computing and other web technologies for fintech and retail industries
+</div>
 
-
-## 🛠 Skills
-- Main Programming Languages: Python, Java 
-- Web Development (HTML, CSS, Next.js, Tailwind css, Typescript)
-- Communication and Interpersonal Skills
-- Teamwork, leadership and Problem-Solving
-
-## 🌱 On the side, I'm currently learning 
-- AWS Cloud Practitioner certification & hands-on deployment with EC2, S3, Lambda
-
-## 🎓 Education
-- B.Eng. in Computer Engineering, McGill University (2024-2028, Expected graduation in 2028) 
-
-## 💼 Work Experience
-- Anthropic Claude Campus Ambassador (2026)
-- Software Engineer Partner, LetA Tech Ltd (2025)
-- Liaison Agent, R.A.P Jeunesse, Montreal (Summers 2021-2024)
-- Sales Associate, Sports Experts Centre Rockland, Montreal (08/2023-01/2024)
-- Sales Associate, New Balance, Montreal (08/2021-02/2023)
-  
-## 🏆 Projects
-- SIY (Style It Yourself) - Your personal stylist, digital closet, fitting room => all in one (2026)
-- Flight Management System full-stack school project (2025)
-- 2nd place @McGill Machine Learning Hackathon 2025 with Scikit Stock Screener (2025)
-- Financial Text Sentiment Analysis App powered by fine-tuned finBert (2025)
-- Django Web App, Nutrition and Fitness Plan Builder (2024) 
-- C++ Gym and Nutrition App, College Personal Project (2024)
-- Video Game Creation Project using Construct 3, La Fusion Jeunesse (2021)
-
-## 📫 How to reach me
-- Personal Email: thaitran196712@gmail.com
-- School : minh.thai.tran@mail.mcgill.ca
-  
-## 🌐 Languages
-- French
-- English
-- Vietnamese
-
-## 💡 Fun fact
-⚡ I also love art, fashion and do amateur photography on the side. 
-<!---
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
-## 🗂️ Highlighted Repositories
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=RepoName1)](https://github.com/YourGitHubUsername/RepoName1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=RepoName2)](https://github.com/YourGitHubUsername/RepoName2)
---->
 ---
-<!---
-thaimtl/thaimtl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### About
+
+Computer Engineering student at McGill University based in Montréal. I transform ideas into practical tools, with focus on AI, cloud computing, and web technologies for fintech and retail.
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,ts,nextjs,react,tailwind,aws,supabase,fastapi,git&theme=dark" />
+  </a>
+</p>
+
+---
+
+### Experience
+
+| Role | Organization | Period |
+|------|--------------|--------|
+| Claude Campus Ambassador | Anthropic | 2026 |
+| Software Engineer Partner | LetA Tech Ltd | 2025 |
+| Liaison Agent | R.A.P Jeunesse | 2021–2024 |
+
+---
+
+### Projects
+
+**SIY (Style It Yourself)** — Personal stylist app with digital closet and fitting room. Built with Next.js, Supabase, FastAPI.
+
+**Scikit Stock Screener** — 2nd place at McGill ML Hackathon 2025. Quantitative screening tool using scikit-learn.
+
+**Financial Sentiment Analyzer** — Text analysis app powered by fine-tuned FinBERT.
+
+**Flight Management System** — Full-stack school project with booking and scheduling features.
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thaimtl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=thaimtl&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thaimtl&show_icons=true&theme=tokyonight&hide_border=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thaimtl&theme=tokyonight&hide_border=true&background=0D1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=thaimtl&theme=default&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=thaimtl&theme=tokyonight&hide_border=true" />
+</picture>
+
+</div>
+
+<!-- 3D Contribution Graph - requires GitHub Action setup -->
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</div>
+
+
+<!-- Snake Animation - requires GitHub Action setup -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thaimtl/thaimtl/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thaimtl/thaimtl/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/thaimtl/thaimtl/output/github-snake.svg" />
+</picture>
+
+
+---
+
+### Education
+
+**B.Eng. Computer Engineering** — McGill University (2024–2028)
+
+Currently learning: AWS Cloud Practitioner certification, hands-on deployment with EC2, S3, Lambda
+
+---
+
+### Languages
+
+English · French · Vietnamese
+
+---
+
+<div align="center">
+<sub>Also into art, fashion, and amateur photography.</sub>
+</div>
