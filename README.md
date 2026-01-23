@@ -39,7 +39,7 @@ Computer Engineering student at McGill University based in Montréal. I transfor
 
 **SIY (Style It Yourself)** — Personal stylist app with digital closet and fitting room. Built with Next.js, Supabase, FastAPI.
 
-**Scikit Stock Screener** — 2nd place at McGill ML Hackathon 2025. Quantitative screening tool using scikit-learn.
+**Scikit Stock Screener** — 2nd place at McGill ML Hackathon 2025. Stock picker tool using ML.
 
 **Financial Sentiment Analyzer** — Text analysis app powered by fine-tuned FinBERT.
 
