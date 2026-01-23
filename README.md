@@ -49,15 +49,6 @@ Computer Engineering student at McGill University based in Montréal. I transfor
 
 ### GitHub Stats
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thaimtl&theme=tokyonight&hide_border=true&background=0D1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=thaimtl&theme=default&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=thaimtl&theme=tokyonight&hide_border=true" />
-</picture>
-
-</div>
 
 <!-- 3D Contribution Graph - requires GitHub Action setup -->
 
