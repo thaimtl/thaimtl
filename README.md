@@ -95,6 +95,7 @@ English · French · Vietnamese
 *Saint George and the Dragon* — Briton Rivière (1908-1909)
 </div>
 
-Unlike most Saint George paintings showing the hero mid-battle, Rivière captures the aftermath — the knight lies exhausted beside his fallen dragon, having given everything he had. Found this one at the Musée des Beaux-Arts de Montréal and it stuck with me — victory through persistence, sacrifice, not glamour.
+This is my favorite painting so far, found it at the Musée des Beaux-Arts de Montréal and it stuck with me. Unlike most Saint George paintings showing the hero mid-battle, Rivière captures the aftermath: the knight lies exhausted beside his fallen dragon, his horse dead beneath the beast's coils, having given everything he had. Victory through persistence and sacrifice, not glamour.
+
 
 </details>
