@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Thai+Tran;Computer+Engineering+%40+McGill;)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thaitran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thai-tran-minh/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:minh.thai.tran@mail.mcgill.ca)
 
 </div>
