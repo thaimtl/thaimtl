@@ -83,6 +83,20 @@ English · French · Vietnamese
 
 ---
 
+<details>
+<summary>Also into art, fashion, and amateur photography...</summary>
+<br>
+
 <div align="center">
-<sub>Also into art, fashion, and amateur photography.</sub>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/St._George_and_the_Dragon_-_Briton_Riviere.jpg/400px-St._George_and_the_Dragon_-_Briton_Riviere.jpg" width="300" alt="Saint George and the Dragon by Briton Rivière"/>
+
+*Saint George and the Dragon* — Briton Rivière (1908-1909)
 </div>
+
+Unlike traditional depictions showing the knight mid-battle on horseback, Rivière captures the aftermath — Saint George lies exhausted beside his fallen adversary. The battle is won, but the victor gave everything he had.
+
+This reflects how I approach challenges: victory comes through persistence, not glamour. The quiet moment after the struggle — whether it's a hackathon deadline, a stubborn bug, or a complex feature — is where the real story lives.
+
+*Discovered at the Musée des Beaux-Arts de Montréal.*
+
+</details>
