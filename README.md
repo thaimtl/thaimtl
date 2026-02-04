@@ -38,7 +38,7 @@ Computer Engineering student at McGill University based in Montréal. I transfor
 
 ### Projects
 
-**SIY (Style It Yourself)** — Personal stylist app with digital closet and fitting room. Built with Next.js, Supabase, FastAPI.
+**[SIY (Style It Yourself)](https://github.com/Paullitsc/Style-It-Yourself)** — Personal stylist app with digital closet and fitting room. Built with Next.js, Supabase, FastAPI.
 
 **Scikit Stock Screener** — 2nd place at McGill ML Hackathon 2025. Stock picker tool using ML.
 
