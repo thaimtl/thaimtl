@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thai-tran-minh/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:minh.thai.tran@mail.mcgill.ca)
+[![Devpost](https://devpost.com/thaimtl?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 </div>
 
