@@ -12,7 +12,7 @@
 
 ### About
 
-Computer Engineering student at McGill University based in Montréal. I transform ideas into practical tools, with focus on AI, cloud computing, and web technologies for fintech and retail.
+Computer Engineering student at McGill University based in Montréal. My bet is on agentic AI.
 
 ---
 
