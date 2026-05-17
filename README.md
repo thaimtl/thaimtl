@@ -30,6 +30,7 @@ Computer Engineering student at McGill University based in Montréal. My bet is 
 
 | Role | Organization | Period |
 |------|--------------|--------|
+| AI Engineer Intern | Planned | 2026
 | President | Claude Builder Club @McGill | 2026 |
 | Claude Campus Ambassador | Anthropic x Wasserman Next Gen | 2026 |
 | Software Engineer Intern | Google Developer Group @McGill | 2025-2026 |
