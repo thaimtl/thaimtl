@@ -34,7 +34,7 @@ Computer Engineering student at McGill University based in Montréal. My bet is 
 
 **Financial Sentiment Analyzer** — Text analysis app powered by fine-tuned FinBERT.
 
-**Flight Management System** — Full-stack school project with booking and scheduling features.
+**Flight Management System** — Full-stack school project with flight booking and scheduling features.
 
 ---
 
