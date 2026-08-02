@@ -26,16 +26,6 @@ Computer Engineering student at McGill University based in Montréal. My bet is 
 
 ---
 
-### Experience
-
-| Role | Organization | Period |
-|------|--------------|--------|
-| AI Builder Intern | Planned | 2026
-| President | Claude Builder Club @McGill | 2026 |
-| Claude Campus Ambassador | Anthropic x Wasserman Next Gen | 2026 |
-
----
-
 ### Projects
 
 **[SIY (Style It Yourself)](https://github.com/Paullitsc/Style-It-Yourself)** — Personal stylist app with digital closet and fitting room. Built with Next.js, Supabase, FastAPI.
