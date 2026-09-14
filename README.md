@@ -55,28 +55,28 @@ I'm also building an agentic digital closet, feel free reach out if you wanna bo
 I really hate circuit and electronic classes. 
 I really love programming and software classes.
 
-Claude and the wave of agentic engineering reshaped my view of software engineering, for the better. 
-While many of my peers focused on finding an AI-proof SWE career, I thrived learning agentic workflows, how to use AI to learn and build things I'm passionate about.
-I believe this is what SWE was always about: to use the right tools to build the right thing. 
-AI is just one of those tools. It is now no less part of my tech stack than supabase, vercel, or github.
+Claude and the wave of agentic engineering reshaped my view of software engineering, for the better. <br>
+While many of my peers focused on finding an AI-proof SWE career, I thrived learning agentic workflows, how to use AI to learn and build things I'm passionate about.<br>
+I believe this is what SWE was always about: to use the right tools to build the right thing. <br>
+AI is just one of those tools. It is now no less part of my tech stack than supabase, vercel, or github.<br>
 
-I genuinely find only 20% of my coursework is actually up-to-date, interesting and useful.
-The other 80% of the web programming and practical SWE skills I know come from online courses like Harvard's CS50, YouTube, and books.
+I genuinely find only 20% of my coursework is actually up-to-date, interesting and useful.<br>
+The other 80% of the web programming and practical SWE skills I know come from online courses like Harvard's CS50, YouTube, and books.<br>
 
-I stopped training LeetCode for the sake of passing OAs and interviews, because I realized it was a waste of time. 
-What's the point of solving the same set of "puzzles" over and over again when you could have used that time to build something great?
-Don't get me wrong, I still find DSA concept matters (but only to a certain extent).
+I stopped training LeetCode for the sake of passing OAs and interviews, because I realized it was a waste of time. <br>
+What's the point of solving the same set of "puzzles" over and over again when you could have used that time to build something great?<br>
+Don't get me wrong, I still find DSA concept matters (but only to a certain extent).<br>
 
-I met most of the coolest friends outside of my program, through clubs I'm passionate about. They changed my mindset and views, all for the better. 
-So if you are reading this and you are at uni, go find a club/community to join, and get out of your bubble.
+I met most of the coolest friends outside of my program, through clubs I'm passionate about. They changed my mindset and views, all for the better. <br>
+So if you are reading this and you are at uni, go find a club/community to join, and get out of your bubble.<br>
 
 ---
 
-### Languages
+### Languages (in order of how often I mess them up)
 
 English<br>
-French<br>
 Vietnamese<br>
+French<br>
 
 ---
 
