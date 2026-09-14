@@ -56,8 +56,7 @@ I really hate circuit and electronic classes.<br>
 I really love programming and software classes.
 
 Claude and the wave of agentic engineering reshaped my view of software engineering, for the better. <br>
-While many of my peers focused on finding an AI-proof SWE career, I thrived on learning agentic workflows <br>
-and leveraging AI to learn and build things I'm passionate about.<br>
+While many of my peers focused on finding an AI-proof SWE career, I thrived on learning agentic workflows and leveraging AI to learn and build things I'm passionate about.<br>
 I believe this is what SWE was always about: to use the right tools to build the right thing. <br>
 AI is just one of those tools. It is now no less part of my tech stack than supabase, vercel, or github.<br>
 
