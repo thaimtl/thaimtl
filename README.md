@@ -63,10 +63,6 @@ AI is just one of those tools. It is now no less part of my tech stack than supa
 I find only 20% of my coursework is actually up-to-date, interesting and useful.<br>
 The other 80% of the web programming and practical SWE skills I know come from online courses like Harvard's CS50, YouTube, and books.<br>
 
-I stopped training LeetCode for the sake of passing OAs and interviews, because I realized it was a waste of time. <br>
-What's the point of solving the same set of "puzzles" over and over again when you could have used that time to build something great?<br>
-Don't get me wrong, I still find DSA concept matters (but only to a certain extent).<br>
-
 I met most of the coolest friends outside of my program, through clubs I'm passionate about. They changed my mindset and views, all for the better. <br>
 So if you are reading this and you are at uni, go find a club/community to join, and get out of your bubble.<br>
 
