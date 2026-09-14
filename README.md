@@ -60,7 +60,7 @@ While many of my peers focused on finding an AI-proof SWE career, I thrived on l
 I believe this is what SWE was always about: to use the right tools to build the right thing. <br>
 AI is just one of those tools. It is now no less part of my tech stack than supabase, vercel, or github.<br>
 
-I genuinely find only 20% of my coursework is actually up-to-date, interesting and useful.<br>
+I find only 20% of my coursework is actually up-to-date, interesting and useful.<br>
 The other 80% of the web programming and practical SWE skills I know come from online courses like Harvard's CS50, YouTube, and books.<br>
 
 I stopped training LeetCode for the sake of passing OAs and interviews, because I realized it was a waste of time. <br>
