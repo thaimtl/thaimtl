@@ -30,8 +30,6 @@ I'm also building an agentic digital closet, feel free reach out if you wanna bo
 
 ### GitHub Stats
 
-Funsie snake graph made with Github Actions
-
 <!-- 3D Contribution Graph - requires GitHub Action setup -->
 
 <div align="center">
@@ -59,7 +57,8 @@ I really love programming and software classes.
 
 Claude and the wave of agentic engineering reshaped my view of software engineering, for the better. 
 While many of my peers focused on finding an AI-proof SWE career, I thrived learning agentic workflows, how to use AI to learn and build things I'm passionate about.
-I believe this is what SWE was always about: to use the right tools to build the right thing. AI is just one of those tools. It is now no less part of my tech stack than supabase, vercel, or github.
+I believe this is what SWE was always about: to use the right tools to build the right thing. 
+AI is just one of those tools. It is now no less part of my tech stack than supabase, vercel, or github.
 
 I genuinely find only 20% of my coursework is actually up-to-date, interesting and useful.
 The other 80% of the web programming and practical SWE skills I know come from online courses like Harvard's CS50, YouTube, and books.
