@@ -74,9 +74,9 @@ So if you are reading this and you are at uni, go find a club/community to join,
 
 ### Languages
 
-English 
-French
-Vietnamese
+- English
+- French
+- Vietnamese
 
 ---
 
