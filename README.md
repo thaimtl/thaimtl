@@ -63,8 +63,7 @@ AI is just one of those tools. It is now no less part of my tech stack than supa
 I find only 20% of my coursework is actually up-to-date, interesting and useful.<br>
 The other 80% of the web programming and practical SWE skills I know come from online courses like Harvard's CS50, YouTube, and books.<br>
 
-I met most of the coolest friends outside of my program, through clubs I'm passionate about. They changed my mindset and views, all for the better. <br>
-So if you are reading this and you are at uni, go find a club/community to join, and get out of your bubble.<br>
+I met most of the coolest friends outside of my program, through clubs I'm passionate about. They changed my mindset and views, all for the better. So if you are reading this and you are at uni, go find a club/community to join, and get out of your bubble.<br>
 
 ---
 
