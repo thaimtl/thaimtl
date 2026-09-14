@@ -10,9 +10,11 @@
 
 ---
 
-### About
+### Something About Me
 
-Computer Engineering student at McGill University based in Montréal. My bet is on agentic AI.
+My bet is on agentic AI and world models - currently doing some private researches in these areas.  
+
+I'm also building an agentic digital closet, feel free reach out if you wanna bounce ideas!
 
 ---
 
@@ -26,20 +28,9 @@ Computer Engineering student at McGill University based in Montréal. My bet is 
 
 ---
 
-### Projects
-
-**[SIY (Style It Yourself)](https://github.com/Paullitsc/Style-It-Yourself)** — Personal stylist app with digital closet and fitting room. Built with Next.js, Supabase, FastAPI.
-
-**Scikit Stock Screener** — 2nd place at McGill ML Hackathon 2025. Stock picker tool using ML.
-
-**Financial Sentiment Analyzer** — Text analysis app powered by fine-tuned FinBERT.
-
-**Flight Management System** — Full-stack school project with flight booking and scheduling features.
-
----
-
 ### GitHub Stats
 
+Funsie snake graph made with Github Actions
 
 <!-- 3D Contribution Graph - requires GitHub Action setup -->
 
@@ -59,22 +50,39 @@ Computer Engineering student at McGill University based in Montréal. My bet is 
 
 ---
 
-### Education
+### My Time at University 
 
 **B.Eng. Computer Engineering** — McGill University (2024–2028)
 
-Currently learning: AWS Cloud Practitioner certification, hands-on deployment with EC2, S3, Lambda
+I really hate circuit and electronic classes. 
+I really love programming and software classes.
+
+Claude and the wave of agentic engineering reshaped my view of software engineering, for the better. 
+While many of my peers focused on finding an AI-proof SWE career, I thrived learning agentic workflows, how to use AI to learn and build things I'm passionate about.
+I believe this is what SWE was always about: to use the right tools to build the right thing. AI is just one of those tools. It is now no less part of my tech stack than supabase, vercel, or github.
+
+I genuinely find only 20% of my coursework is actually up-to-date, interesting and useful.
+The other 80% of the web programming and practical SWE skills I know come from online courses like Harvard's CS50, YouTube, and books.
+
+I stopped training LeetCode for the sake of passing OAs and interviews, because I realized it was a waste of time. 
+What's the point of solving the same set of "puzzles" over and over again when you could have used that time to build something great?
+Don't get me wrong, I still find DSA concept matters (but only to a certain extent).
+
+I met most of the coolest friends outside of my program, through clubs I'm passionate about. They changed my mindset and views, all for the better. 
+So if you are reading this and you are at uni, go find a club/community to join, and get out of your bubble.
 
 ---
 
 ### Languages
 
-English · French · Vietnamese
+English 
+French
+Vietnamese
 
 ---
 
 <details>
-<summary>Also into art, fashion, and amateur photography...</summary>
+<summary>Also into art, fashion, chess and photography...</summary>
 <br>
 
 <div align="center">
