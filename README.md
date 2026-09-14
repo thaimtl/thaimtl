@@ -14,7 +14,7 @@
 
 My bet is on agentic AI and world models - currently doing some private researches in these areas.  
 
-I'm also building an agentic digital closet, feel free reach out if you wanna bounce ideas!
+I'm also building an agentic digital closet, feel free to reach out if you wanna bounce ideas!
 
 ---
 
