@@ -52,7 +52,7 @@ I'm also building an agentic digital closet, feel free reach out if you wanna bo
 
 **B.Eng. Computer Engineering** — McGill University (2024–2028)
 
-I really hate circuit and electronic classes. 
+I really hate circuit and electronic classes.<br>
 I really love programming and software classes.
 
 Claude and the wave of agentic engineering reshaped my view of software engineering, for the better. <br>
