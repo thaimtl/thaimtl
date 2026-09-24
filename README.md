@@ -57,16 +57,15 @@ I really hate circuit and electronic classes.<br>
 I really love programming and software classes.
 
 Claude and the wave of agentic engineering reshaped my view of software engineering, for the better. <br>
-
 While many of my peers focused on finding an AI-proof SWE career, I thrived on learning agentic workflows and leveraging AI to learn and build things I'm passionate about.<br>
 
 I believe this is what SWE was always about: to use the right tools to build the right thing. <br>
 AI is just one of those tools. It is now no less part of my tech stack than supabase, vercel, or github.<br>
 
-I find only 20% of my coursework is actually up-to-date, interesting and useful.<br>
+I find only 20% of my coursework is actually up-to-date, interesting and useful. <br>
 The other 80% of the web programming and practical SWE skills I know come from online courses like Harvard's CS50, YouTube, and books.<br>
 
-I met some of the coolest and brightest friends outside of my program. They changed my mindset and views, all for the better. So if you are reading this and you are at uni, go find a club/community to join, and get out of your bubble.<br>
+I met some of the coolest and brightest friends outside of my program. They changed my mindset and views, all for the better. So if you are reading this and you are in uni, go find a club/community to join, and get out of your bubble. Outside of your comfort zone is where exponential growth resides. <br>
 
 ---
 
@@ -79,7 +78,7 @@ French<br>
 ---
 
 <details>
-<summary>Also into art, fashion, chess and photography...</summary>
+<summary>Also into art, fashion, Chinese chess and photography...</summary>
 <br>
 
 <div align="center">
