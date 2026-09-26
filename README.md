@@ -65,7 +65,9 @@ AI is just one of those tools. It is now no less part of my tech stack than supa
 Sadly, although McGill is considered one of the **good** schools, I find only 20% of my coursework is actually interesting and useful. <br>
 Most of my programming and practical SWE skills and tools I have to learn on my own from online courses like Harvard's CS50, YouTube, and books.<br>
 
-I met some of the coolest and brightest friends outside of my program. They changed my mindset and views, all for the better. So if you are reading this and you are in uni, go find a club/community to join, and get out of your bubble. Outside of your comfort zone is where you meet your exponential growth. <br>
+I met some of the coolest and brightest friends outside of my program. They changed my mindset and views, all for the better. <br>
+
+So if you are reading this and you are in uni, go find a club/community to join, and get out of your bubble. Outside of your comfort zone is where you meet your exponential growth. <br>
 
 ---
 
