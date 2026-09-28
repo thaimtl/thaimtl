@@ -63,7 +63,7 @@ I believe this is what SWE was always about: to use the right tools to build the
 AI is just one of those tools. AI tools like Claude Code is now no less part of my tech stack than supabase, vercel, or github.<br>
 
 Sadly, although McGill is considered one of the **good** schools, I find only 20% of my coursework is actually interesting and useful. <br>
-Most of my programming and practical SWE skills and tools I have to learn on my own from online courses like Harvard's CS50, YouTube, and books.<br>
+Most of my programming and practical SWE skills and tools I have to learn on my own from YouTube, and [books](https://github.com/thaimtl/books).<br>
 
 I met some of the coolest and brightest friends outside of my program. They changed my mindset and views, all for the better. <br>
 
