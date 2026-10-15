@@ -15,7 +15,19 @@
 
 My bet is on agentic AI and world models - currently doing some private researches in these areas.  
 
-I'm also building an agentic digital closet, feel free to reach out if you wanna bounce ideas!
+I just shipped [Plan Your Degree](https://plan-your-degree.vercel.app), a free degree planner for McGill students, and I'm building an agentic digital closet on the side. Feel free to reach out if you wanna bounce ideas!
+
+---
+
+### Plan Your Degree
+
+**[plan-your-degree.vercel.app](https://plan-your-degree.vercel.app)** · [source](https://github.com/CBC-Mcgill/McGill-Plan-Your-Degree)
+
+McGill never built a degree planner, so I did. <br>
+Drop in your unofficial transcript, it's parsed in your browser and never uploaded, and it audits you against any of 944 McGill programs, undergraduate and graduate. <br>
+It tells you what you can take next term, what's locked and why, and whether your plan lands on your graduation date. <br>
+100% free, no account, open source. 870 people used it in its first three days, with no ads. <br>
+Most of the code was written by agents I ran in parallel, and every pull request went through my review before it merged. <br>
 
 ---
 
