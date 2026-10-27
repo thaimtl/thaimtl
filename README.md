@@ -15,7 +15,7 @@
 
 My bet is on agentic AI and world models - currently doing some private researches in these areas.  
 
-I just shipped [Plan Your Degree](https://plan-your-degree.vercel.app), a free degree planner for McGill students, and I'm building an agentic digital closet on the side. Feel free to reach out if you wanna bounce ideas!
+Worked so hard I passed out at CalHacks 13.0, got into the ER at 1 am in the morning, got back to the venue at 7 am just in time for judging period. We placed top 2 overall, and top 1 at Cartesia Voice AI challenge. Core memory for sure. Technical writeup coming soon. Check out the project [here](https://devpost.com/software/silent-voice-s1f74p).
 
 ---
 
@@ -23,10 +23,10 @@ I just shipped [Plan Your Degree](https://plan-your-degree.vercel.app), a free d
 
 **[plan-your-degree.vercel.app](https://plan-your-degree.vercel.app)** · [source](https://github.com/CBC-Mcgill/McGill-Plan-Your-Degree)
 
-  McGill never built a degree planner, so I did. Drop in your unofficial transcript, it's parsed in your browser and never uploaded, and it audits you against any of 944 McGill programs, undergraduate and graduate. <br>
+  McGill degree planning system is broken, so I fixed it and shared it with my friends, then the entire school. We reached >1k users after 5 days, all organic traffic, no marketing was needed. For McGillians, drop in your unofficial transcript, it's parsed in your browser and never uploaded, and it audits you against any of 944 McGill programs, undergraduate and graduate. <br>
   
   It tells you what you can take next term, what's locked and why, and whether your plan lands on your graduation date. <br>
-100% free, no account, open source. 870 people used it in its first three days, with no ads. <br>
+100% free, no account, open source. <br>
 
 ---
 
