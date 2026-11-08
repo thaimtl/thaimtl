@@ -13,14 +13,15 @@
 
 ### Something About Me
 
-My bet is on agentic AI and world models - currently doing some private researches in these areas.  
+My bet is on agentic AI and world models - currently doing some private researches in these areas.
 
-Worked so hard I passed out at CalHacks 13.0. <br>
-Got into the ER at 1 am, made it back to the venue at 7 am just in time for judging. <br>
-We placed top 2 overall, and top 1 at the Cartesia Voice AI challenge. Core memory for sure. <br>
+---
 
-We built [Silent Voice](https://devpost.com/software/silent-voice-s1f74p) to give people who lost their voice box to cancer their voice back. <br>
-[CTV News covered it here](https://www.ctvnews.ca/montreal/article/mcgill-students-project-aims-to-give-cancer-patients-their-voice-back/). Technical writeup coming soon. <br>
+### Silent Voice
+
+**[technical writeup](https://thaimtl.github.io/cal-hacks-13/)** · [source](https://github.com/thaimtl/Silent-Voice) · [devpost](https://devpost.com/software/silent-voice-s1f74p)
+
+We built Silent Voice to give people who lost their voice box to cancer their voice back. Worked so hard I passed out at CalHacks 13.0, got into the ER at 1 am, and made it back to the venue at 7 am just in time for judging. We placed top 2 overall, and top 1 at the Cartesia Voice AI challenge. Core memory for sure. [CTV News covered it here](https://www.ctvnews.ca/montreal/article/mcgill-students-project-aims-to-give-cancer-patients-their-voice-back/).
 
 ---
 
@@ -28,10 +29,7 @@ We built [Silent Voice](https://devpost.com/software/silent-voice-s1f74p) to giv
 
 **[plan-your-degree.vercel.app](https://plan-your-degree.vercel.app)** · [source](https://github.com/CBC-Mcgill/McGill-Plan-Your-Degree)
 
-  McGill degree planning system is broken, so I fixed it and shared it with my friends, then the entire school. We reached >1k users after 5 days, all organic traffic, no marketing was needed. For McGillians, drop in your unofficial transcript, it's parsed in your browser and never uploaded, and it audits you against any of 944 McGill programs, undergraduate and graduate. <br>
-  
-  It tells you what you can take next term, what's locked and why, and whether your plan lands on your graduation date. <br>
-100% free, no account, open source. <br>
+McGill degree planning system is broken, so I fixed it and shared it with my friends, then the entire school. We reached >1k users after 5 days, all organic traffic, no marketing was needed. For McGillians, drop in your unofficial transcript, it's parsed in your browser and never uploaded, and it audits you against any of 944 McGill programs, undergraduate and graduate. It tells you what you can take next term, what's locked and why, and whether your plan lands on your graduation date. 100% free, no account, open source.
 
 ---
 
