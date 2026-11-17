@@ -21,7 +21,7 @@ My bet is on agentic AI and world models - currently doing some private research
 
 **[technical writeup](https://thaimtl.github.io/cal-hacks-13/)** · [source](https://github.com/thaimtl/Silent-Voice) · [devpost](https://devpost.com/software/silent-voice-s1f74p)
 
-We built Silent Voice to give people who lost their voice box to cancer their voice back. Worked so hard I passed out at CalHacks 13.0, got into the ER at 1 am, and made it back to the venue at 7 am just in time for judging. We placed top 2 overall, and top 1 at the Cartesia Voice AI challenge. Core memory for sure. [CTV News covered it here](https://www.ctvnews.ca/montreal/article/mcgill-students-project-aims-to-give-cancer-patients-their-voice-back/).
+We built Silent Voice to give people who lost their voice box to cancer their voice back. Worked so hard I passed out T-T , got into the ER at 1 am, and actually made it back to the venue at 7 am just in time for judging. We placed top 2 overall, and top 1 at the Cartesia Voice AI challenge. Core memory at [CalHacks](https://www.calhacks.io/), San Fran. [CTV News covered it here](https://www.ctvnews.ca/montreal/article/mcgill-students-project-aims-to-give-cancer-patients-their-voice-back/).
 
 ---
 
