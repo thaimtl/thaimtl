@@ -31,8 +31,8 @@ We built Silent Voice to give people who lost their voice box to cancer their vo
 
 McGill degree planning system is broken, so I fixed it and shared it with my friends, then the entire school. We reached >1k users after 5 days, all organic traffic, no marketing was needed. For McGillians, just pick your program or drop in your unofficial transcript, it's parsed in your browser and never uploaded, and it audits you against any of 944 McGill programs, undergraduate and graduate. It tells you what you can take next term, what's locked and why, and most importantly whether your plan lands on your graduation date. 
 
-100% free, no account needed, open source. 
-I was able to make it free due to a certain intentional infra decisions :3 - such as no backend, no db at all, and vercel lets me host the frontend app on free hobby tier. 
+100% free, no account needed, and open source! 
+So how am I able to host an app 2k+ users for free? It is due to certain infra desgin decisions :3 - such as no backend, no db at all, and vercel lets me host the frontend app on free hobby tier. Read more in the repo above.
 
 ---
 
