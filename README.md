@@ -29,7 +29,10 @@ We built Silent Voice to give people who lost their voice box to cancer their vo
 
 **[plan-your-degree.vercel.app](https://plan-your-degree.vercel.app)** · [source](https://github.com/CBC-Mcgill/McGill-Plan-Your-Degree)
 
-McGill degree planning system is broken, so I fixed it and shared it with my friends, then the entire school. We reached >1k users after 5 days, all organic traffic, no marketing was needed. For McGillians, drop in your unofficial transcript, it's parsed in your browser and never uploaded, and it audits you against any of 944 McGill programs, undergraduate and graduate. It tells you what you can take next term, what's locked and why, and whether your plan lands on your graduation date. 100% free, no account, open source.
+McGill degree planning system is broken, so I fixed it and shared it with my friends, then the entire school. We reached >1k users after 5 days, all organic traffic, no marketing was needed. For McGillians, just pick your program or drop in your unofficial transcript, it's parsed in your browser and never uploaded, and it audits you against any of 944 McGill programs, undergraduate and graduate. It tells you what you can take next term, what's locked and why, and most importantly whether your plan lands on your graduation date. 
+
+100% free, no account needed, open source. 
+I was able to make it free due to a certain intentional infra decisions :3 - such as no backend, no db at all, and vercel lets me host the frontend app on free hobby tier. 
 
 ---
 
@@ -67,17 +70,17 @@ McGill degree planning system is broken, so I fixed it and shared it with my fri
 
 **B.Eng. Computer Engineering** — McGill University (2024–2028)
 
-I really hate circuit and electronic classes.<br>
-I really love programming and software classes.
+I really hate circuit and electronic classes, as I hardly find anyway to implement what I learned to build <br>
+I love a certain programming and software classes such as COMP251, ECSE250, ECSE321, highly recommend to attend these ones in-person.
 
-Claude and the wave of agentic engineering reshaped my view of software engineering, for the better. <br>
-While many of my peers focused on finding an AI-proof SWE career, I thrived on learning agentic workflows and leveraging AI to learn and build things I'm passionate about.<br>
+Claude and the wave of agentic engineering genuinely reshaped my view/belief around software engineering (for the better). <br>
+While many of my peers focused on finding an AI-proof SWE career, I thrived on learning agentic workflows and leveraging AI to learn and build more things I'm passionate about.<br>
 
-I believe this is what SWE was always about: to use the right tools to build the right thing. <br>
+I believe this is what SWE was always about: to use the right tools to build the right thing, not just about writing code 24/7. <br>
 AI is just one of those tools. AI tools like Claude Code is now no less part of my tech stack than supabase, vercel, or github.<br>
 
 Sadly, although McGill is considered one of the **good** schools, I find only 20% of my coursework is actually interesting and useful. <br>
-Most of my programming and practical SWE skills and tools I have to learn on my own from YouTube, and [books](https://github.com/thaimtl/books).<br>
+Most of my programming and practical SWE skills and tools I have to learn on my own from X, YouTube, and [books](https://github.com/thaimtl/books).<br>
 
 I met some of the coolest and brightest friends outside of my program. They changed my mindset and views, all for the better. <br>
 
